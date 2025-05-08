@@ -43,10 +43,10 @@ This testing project focuses on the following modules:
 
 The repository includes the following key documents:
 
-- 📄 **Test Plan Document** (`orangehrm_test_plan.docx`):  
+- 📄 **Test Plan Document** (./OrangeHRM management Test Plan.docx):  
   Outlines the scope, objectives, test strategy, test environment, deliverables, schedule, and responsibilities for the project.
 
-- ✅ **Test Cases File** (`orangehrm_testcases.xlsx`):  
+- ✅ **Test Cases File** (./orangeHRMTestCases.xlsx):  
   Contains functional, GUI, and basic security test cases with test steps, expected results, and space for execution status.
 
 ---
