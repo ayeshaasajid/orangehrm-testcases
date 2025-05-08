@@ -46,7 +46,7 @@ The repository includes the following key documents:
 📄 [Test Plan Document](https://github.com/ayeshaasajid/orangehrm-testcases/raw/main/OrangeHRM%20management%20Test%20Plan.docx)  
 Outlines the scope, objectives, test strategy, test environment, deliverables, schedule, and responsibilities for the project.
 
-✅ [Test Cases File](https://github.com/ayeshaasajid/orangehrm-testcases/raw/main/orangeHRMTestCases.xlsx)  
+✅ [Test Cases File](https://github.com/ayeshaasajid/orangehrm-testcases/raw/main/OrangeHRMTestCases.xlsx)  
 Contains functional, GUI, and basic security test cases with test steps, expected results, and space for execution status.
 
 
